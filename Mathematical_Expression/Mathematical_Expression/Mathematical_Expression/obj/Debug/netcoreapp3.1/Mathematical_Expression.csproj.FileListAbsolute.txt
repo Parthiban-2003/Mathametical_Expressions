@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\obj\Debug\netcoreapp3.1\Mathematical_Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\obj\Debug\netcoreapp3.1\Mathematical_Expression.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\obj\Debug\netcoreapp3.1\Mathematical_Expression.AssemblyInfo.cs
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\obj\Debug\netcoreapp3.1\Mathematical_Expression.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\bin\Debug\netcoreapp3.1\Mathematical_Expression.exe
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\bin\Debug\netcoreapp3.1\Mathematical_Expression.deps.json
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\bin\Debug\netcoreapp3.1\Mathematical_Expression.runtimeconfig.json
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\bin\Debug\netcoreapp3.1\Mathematical_Expression.runtimeconfig.dev.json
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\bin\Debug\netcoreapp3.1\Mathematical_Expression.dll
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\bin\Debug\netcoreapp3.1\Mathematical_Expression.pdb
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\obj\Debug\netcoreapp3.1\Mathematical_Expression.dll
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\obj\Debug\netcoreapp3.1\Mathematical_Expression.pdb
+C:\inetpub\wwwroot\Mathematical_Expression\Mathematical_Expression\obj\Debug\netcoreapp3.1\Mathematical_Expression.genruntimeconfig.cache
